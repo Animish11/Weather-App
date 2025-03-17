@@ -129,5 +129,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ---
 
-Made with ❤️ by [Your Name] | [Visual Crossing API Documentation](https://www.visualcrossing.com/resources/documentation/weather-api/)
+Made with ❤️ by [Animish Kulkarni] | [Visual Crossing API Documentation](https://www.visualcrossing.com/resources/documentation/weather-api/)
 ```
+"https://roadmap.sh/projects/weather-api-wrapper-service"
